@@ -7,4 +7,5 @@ ETNA2 accelerograph connect vpn over 4g modem router mexico
 
 
 ### Modem inalambrico Mifi rj45 Internet 4g WiFi portatil Telcel/Altan
+### Facebook: fb.com/comtigointernet
 > https://www.youtube.com/watch?v=q4saVfCqEEg
