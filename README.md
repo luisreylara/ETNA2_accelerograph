@@ -5,6 +5,8 @@ ETNA2 accelerograph connect vpn over 4g modem router mexico
 ### Análisis TP-Link TL-MR6400 | TODO lo que DEBES saber de este ROUTER 4G LTE 🚀
 > https://www.youtube.com/watch?v=DJw5OQdHHns
 
+### TP-Link WiFi Router 3p 10-100 4g N300 1498.00
+> https://www.amazon.com.mx/TP-LINK-WiFi-Router-10-100-N300/dp/B07RM95YFC/ref=sr_1_1?__mk_es_MX=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=3457L8ZB1RFTV&dib=eyJ2IjoiMSJ9.1robb6VTmG5CnIqlgIsTlqgiJAK6rtLJdbOKVHGVWnlavg5ACh5rewG_U7KAoYs1PI2jOoe2EPjub4xgYAHRc3lp800YbgY43O29M_AvwML3OCmfmOp1UTIkhiT90VSq-RTsjiv2otZrNRsGwaAFb-vYC86nz7Gd2rIzQ69Rq6RRYGGro8OL89EfJJ90UaHUsYEQ62SeDCHRFqcC09eoAr7GqqFr7nnf5_ckzefmfmjdvNhhZIRgnuEtyJ9k3kKzX6VV792kXGSHzNeXGYRVwoi1CDxFkJg5jFGxo2GHVJA.T10PpuyYmCD45v5YxwisW2OI2IQB1plujnLulTmAiBQ&dib_tag=se&keywords=TL-MR6400+4G+LTE&qid=1710259184&sprefix=tl-mr6400+4g+lte%2Caps%2C389&sr=8-1&ufe=app_do%3Aamzn1.fos.4e545b5e-1d45-498b-8193-a253464ffa47
 
 ### Modem inalambrico Mifi rj45 Internet 4g WiFi portatil Telcel/Altan
 ### Facebook: fb.com/comtigointernet
