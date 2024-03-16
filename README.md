@@ -11,3 +11,7 @@ ETNA2 accelerograph connect vpn over 4g modem router mexico
 ### Modem inalambrico Mifi rj45 Internet 4g WiFi portatil Telcel/Altan
 ### Facebook: fb.com/comtigointernet
 > https://www.youtube.com/watch?v=q4saVfCqEEg
+
+
+### Modem Wifi Internet 3g 4g Liberado +chip Telcel $2,247.00
+>https://articulo.mercadolibre.com.mx/MLM-1397358853-modem-wifi-internet-3g-4g-liberado-chip-telcel-_JM#position=24&search_layout=stack&type=item&tracking_id=a6cb4bae-49c7-441a-ac24-154d335039cd
