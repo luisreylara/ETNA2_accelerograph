@@ -12,6 +12,11 @@ ETNA2 accelerograph connect vpn over 4g modem router mexico
 ### Facebook: fb.com/comtigointernet
 > https://www.youtube.com/watch?v=q4saVfCqEEg
 
-
+### Modem Zte 4g Mf293n + Chip Telcel Internet En Casa
+> https://articulo.mercadolibre.com.mx/MLM-1924518313-modem-zte-4g-mf293n-chip-telcel-internet-en-casa-_JM#position=2&search_layout=stack&type=item&tracking_id=334e6227-f13a-42c9-829f-b4ae41c7ffc5
 ### Modem Wifi Internet 3g 4g Liberado +chip Telcel $2,247.00
 >https://articulo.mercadolibre.com.mx/MLM-1397358853-modem-wifi-internet-3g-4g-liberado-chip-telcel-_JM#position=24&search_layout=stack&type=item&tracking_id=a6cb4bae-49c7-441a-ac24-154d335039cd
+
+
+###
+> 
