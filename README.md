@@ -20,3 +20,4 @@ ETNA2 accelerograph connect vpn over 4g modem router mexico
 
 ### ZTE support and docs
 > https://ztedevices.com/en-gl/mf293n/
+> https://oss.ztedevices.com/prod/cn/direct/mf293n/MF293N_user%20manual_V01.pdf
