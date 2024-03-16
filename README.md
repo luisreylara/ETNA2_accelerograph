@@ -18,5 +18,5 @@ ETNA2 accelerograph connect vpn over 4g modem router mexico
 >https://articulo.mercadolibre.com.mx/MLM-1397358853-modem-wifi-internet-3g-4g-liberado-chip-telcel-_JM#position=24&search_layout=stack&type=item&tracking_id=a6cb4bae-49c7-441a-ac24-154d335039cd
 
 
-###
-> 
+### ZTE support and docs
+> https://ztedevices.com/en-gl/mf293n/
