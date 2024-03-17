@@ -24,3 +24,6 @@ ETNA2 accelerograph connect vpn over 4g modem router mexico
 
 ### How to setup port forwarding on router 4G LTE From ZTE
 > https://www.youtube.com/watch?v=aadv24MzmWE
+
+### 👉¿Como CAMBIAR la NAT de tu MÓDEM Internet en Casa Telcel?
+> https://www.youtube.com/watch?v=oJmUxfIp47Q
