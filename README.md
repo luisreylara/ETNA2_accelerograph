@@ -27,3 +27,6 @@ ETNA2 accelerograph connect vpn over 4g modem router mexico
 
 ### 👉¿Como CAMBIAR la NAT de tu MÓDEM Internet en Casa Telcel?
 > https://www.youtube.com/watch?v=oJmUxfIp47Q
+
+### ¿Ya no puedes liberar puertos en TELMEX y no sabes por que ?
+> https://baeez.com/2021/09/22/ya-no-puedes-liberar-puertos-en-telmex-y-no-sabes-por-que/
