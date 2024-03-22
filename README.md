@@ -42,3 +42,6 @@ ETNA2 accelerograph connect vpn over 4g modem router mexico
 
 ### Qué es el doble NAT (estricto o NAT 3) y cómo quitarlo
 > https://www.androidjefe.com/doble-nat/
+
+### Bypassing a CGNAT with Wireguard
+> https://github.com/mochman/Bypass_CGNAT
