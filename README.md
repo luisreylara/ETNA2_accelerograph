@@ -1,6 +1,11 @@
 # ETNA2 accelerograph Kinemetrics’
 ETNA2 accelerograph connect vpn over 4g modem router mexico
 
+### Guía de inicio rápido de ETNA 2
+> https://www.youtube.com/watch?v=dVY6SRgI8gk
+
+### 
+> 
 
 ### Análisis TP-Link TL-MR6400 | TODO lo que DEBES saber de este ROUTER 4G LTE 🚀
 > https://www.youtube.com/watch?v=DJw5OQdHHns
