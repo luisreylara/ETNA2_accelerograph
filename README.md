@@ -30,3 +30,10 @@ ETNA2 accelerograph connect vpn over 4g modem router mexico
 
 ### ¿Ya no puedes liberar puertos en TELMEX y no sabes por que ?
 > https://baeez.com/2021/09/22/ya-no-puedes-liberar-puertos-en-telmex-y-no-sabes-por-que/
+
+
+### 🌍 Accede a tu red local LAN con Wireguard, servidor VPN | Soy programador
+> https://www.youtube.com/watch?v=CGfXjhAEq7U
+
+### Qué es el doble NAT (estricto o NAT 3) y cómo quitarlo
+> https://www.androidjefe.com/doble-nat/
