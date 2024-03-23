@@ -1,4 +1,4 @@
-# ETNA2 accelerograph Kinemetrics’
+# ETNA2 accelerograph Kinemetrics
 ETNA2 accelerograph connect vpn over 4g modem router mexico
 
 ### Guía de inicio rápido de ETNA 2
