@@ -7,6 +7,9 @@ ETNA2 accelerograph connect vpn over 4g modem router mexico
 ### Kinemetrics Youtube
 > https://www.youtube.com/@OSSKinemetricsTV/videos
 
+### ETNA 2 Manual, QR desde el modulo-dispositivo
+> https://unitdata.kmi.com/Etna2Manual.pdf
+
 
 ### iCOBI3 User Manual
 > https://kinemetrics.com/wp-content/uploads/2017/04/manual-icobi3-accelerograph-kinemetrics.pdf
