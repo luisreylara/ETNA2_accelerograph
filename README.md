@@ -55,3 +55,8 @@ ETNA2 accelerograph connect vpn over 4g modem router mexico
 
 > ./Oracle_Installer.sh Local sPrVaqXpYHh3EbCt/h9gSzJ/lX8QIn1EDJYVOZ+LcDk= 150.136.81.87 10.1.0.1 10.1.0.2 55108 80/tcp,8080/tcp
 
+
+> Ew+ewyWQozZVcKJz0whk3KseVXzWbYDH/Cv3J7wKeF8=
+
+> systemctl reboot wg-quick@wg0
+
