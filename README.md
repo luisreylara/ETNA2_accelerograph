@@ -60,3 +60,5 @@ ETNA2 accelerograph connect vpn over 4g modem router mexico
 
 > systemctl reboot wg-quick@wg0
 
+> sudo systemctl restart wg-quick@wg0
+
