@@ -66,3 +66,6 @@ ETNA2 accelerograph connect vpn over 4g modem router mexico
 
 ### ssh reverse tunnel
 > 
+
+### Linux – Script mata procesos
+> https://www.elsotanillo.net/2006/05/linux-script-mata-procesos-2/
