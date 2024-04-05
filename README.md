@@ -69,3 +69,11 @@ ETNA2 accelerograph connect vpn over 4g modem router mexico
 
 ### Linux – Script mata procesos
 > https://www.elsotanillo.net/2006/05/linux-script-mata-procesos-2/
+
+### ¿Cómo se usa el comando ss en Linux?
+> https://www.ochobitshacenunbyte.com/2020/09/01/como-se-usa-el-comando-ss-en-linux/
+
+### Comando at: Programación de tareas únicas en Linux
+> https://www.ochobitshacenunbyte.com/2019/07/01/comando-at-programacion-de-tareas-unicas-en-linux/
+
+
