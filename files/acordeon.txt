@@ -1,0 +1,38 @@
+# caso1
+rpi 192.168.1.77 (luis/2024)
+sensor 192.168.1.106 (root/root)
+
+# se pone en la rpi
+ssh -L *:12345:127.0.0.1:80 -Nf root@192.168.1.106
+ssh -i sabado.key -R 3000:localhost:22 -Nf ubuntu@150.136.81.87
+
+
+#VPS
+ssh -i rpi.key -p 3000 luis@localhost
+ssh -i rpi.key -L *:8080:127.0.0.1:12345 -p 3000 -Nf luis@localhost
+
+# rpi
+luis@raspberrypi:~/.ssh $ ps x|grep ssh
+ 1800 ?        Ss     0:00 ssh -L *:12345:127.0.0.1:80 -Nf root@192.168.1.106
+ 1843 ?        Ss     0:00 ssh -i sabado.key -R 3000:localhost:22 -Nf ubuntu@150.136.81.87
+
+
+#VPS
+ubuntu@instance-wire:~$ ps x|grep ssh
+  27582 ?        Ss     0:00 ssh -i rpi.key -L *:8080:127.0.0.1:12345 -p 3000 -Nf luis@localhost
+
+# caso2 
+# sensor 192.168.1.58   (luis/2024)
+# rpi 192.168.1.79  (luis/2023)
+
+# rpi
+ssh -i sabado.key -R 3001:localhost:22 -Nf ubuntu@150.136.81.87
+ssh -L *:11223:127.0.0.1:80 -Nf luis@192.168.8.58
+
+#VPS
+ssh  -L *:8081:127.0.0.1:11223 -p 3001 -Nf luis@localhost
+ubuntu@instance-wire:~$ ps x|grep ssh
+  27582 ?        Ss     0:00 ssh -i rpi.key -L *:8080:127.0.0.1:12345 -p 3000 -Nf luis@localhost
+  29250 ?        Ss     0:00 ssh -L *:8081:127.0.0.1:11223 -p 3001 -Nf luis@localhost
+  
+
