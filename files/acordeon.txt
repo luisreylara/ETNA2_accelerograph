@@ -35,4 +35,5 @@ ubuntu@instance-wire:~$ ps x|grep ssh
   27582 ?        Ss     0:00 ssh -i rpi.key -L *:8080:127.0.0.1:12345 -p 3000 -Nf luis@localhost
   29250 ?        Ss     0:00 ssh -L *:8081:127.0.0.1:11223 -p 3001 -Nf luis@localhost
 # VPS  
- kill -9 `ps -ef|grep -v grep |grep "ssh -i"|awk '{print $2}'`
+kill -9 `ps -ef|grep -v grep |grep "ssh -i"|awk '{print $2}'`
+ps x|grep "ssh -i"
