@@ -37,3 +37,7 @@ ubuntu@instance-wire:~$ ps x|grep ssh
 # VPS  
 kill -9 `ps -ef|grep -v grep |grep "ssh -i"|awk '{print $2}'`
 ps x|grep "ssh -i"
+
+#rpi
+ssh -L *:12345:127.0.0.1:80 -Nf luis@192.168.1.68;ssh -i sabado.key -R 3000:localhost:22 -Nf ubuntu@150.136.81.87
+
