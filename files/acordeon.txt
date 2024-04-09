@@ -44,3 +44,6 @@ ps x|grep "ssh -i"
 ## SSH FORWARD
 > https://builtin.com/software-engineering-perspectives/ssh-port-forwarding
 sudo systemctl status ssh
+
+## Como ejecutar scripts al iniciar nuestra Raspberry
+> https://www.spainlabs.com/foros/showthread.php?tid=4755
