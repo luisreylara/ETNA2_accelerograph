@@ -47,3 +47,7 @@ sudo systemctl status ssh
 
 ## Como ejecutar scripts al iniciar nuestra Raspberry
 > https://www.spainlabs.com/foros/showthread.php?tid=4755
+
+
+## Cron Job: una guía completa para principiantes
+> https://www.hostinger.mx/tutoriales/cron-job
