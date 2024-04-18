@@ -77,3 +77,5 @@ ETNA2 accelerograph connect vpn over 4g modem router mexico
 > https://www.ochobitshacenunbyte.com/2019/07/01/comando-at-programacion-de-tareas-unicas-en-linux/
 
 
+### How can I fix "kex_exchange_identification: read: Connection reset by peer"?
+> https://stackoverflow.com/questions/69394001/how-can-i-fix-kex-exchange-identification-read-connection-reset-by-peer
